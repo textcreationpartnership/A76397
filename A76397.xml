@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King Charle's [sic] triall justified: or, Eight objections against the same fully answered and cleared, by Scripture, law, history and reason. Being the sum of a charge given at the last sessions held at Trewroe in the county of Cornwall, Aprill 4. 1649. / By Colonell Robert Bennet. Published by authority.</title>
+            <author>Bennet, Robert, 1605-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76397</idno>
+            <idno type="STC">Wing B1886</idno>
+            <idno type="STC">Thomason E554_21</idno>
+            <idno type="STC">ESTC R949</idno>
+            <idno type="EEBO-CITATION">99873559</idno>
+            <idno type="PROQUEST">99873559</idno>
+            <idno type="VID">126036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 126036)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E554[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King Charle's [sic] triall justified: or, Eight objections against the same fully answered and cleared, by Scripture, law, history and reason. Being the sum of a charge given at the last sessions held at Trewroe in the county of Cornwall, Aprill 4. 1649. / By Colonell Robert Bennet. Published by authority.</title>
+                  <author>Bennet, Robert, 1605-1683.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 9th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:126036:1" rendition="simple:additions"/>
+            <p>King Charle's TRIALL IUSTIFIED: <hi>OR,</hi> Eight Objections againſt the ſame fully anſwered and cleared, by <hi>Scripture, Law, Hiſtory and Reaſon.</hi> Being the ſum of a Charge given at the laſt Seſsions held at Trewroe in the County of Cornwall, Aprill 4. 1649.</p>
+            <p>
+               <hi>By Colonell</hi> Robert Bennet.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. A.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="charge">
+            <pb facs="tcp:126036:2"/>
+            <pb n="3" facs="tcp:126036:2"/>
+            <head>
+               <hi>The ſum of the Charge at the Seſsions held at Trewroe Aprill</hi> 3. 1649. <hi>for the County of Cornwall.</hi>
+            </head>
+            <p>GEentlemen, By the good providence of God we are once more met upon this imployment of Juſtice, the conſervative of our civill peace; wherein the goodneſſe of our God is the more obſervable, that e<g ref="char:EOLhyphen"/>ven while the Sword (which had wont to ſilence the Law) hath been called to act in moſt parts of the Kingdome, our Judicatures nevertheleſſe have had their freedome to heare and redreſſe the peoples complaints, <hi>Deus nobis haec <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tia fecit;</hi> this is no other then the finger, yea the right hand of the Al<g ref="char:EOLhyphen"/>mighty amonſt us. It is fallen unto the lot of a very inſuffici<g ref="char:EOLhyphen"/>ent perſon to give the Charge this day, eſpecially conſidering the late tranſmutations in the Nation, which in no reaſon may be ſlipt over in ſilence at ſuch a time as this. I know they have given occaſion to the raiſing of many regretfull Objections in the minds of the people, the which to remove, I conceive it a proper work for this occaſion.</p>
+            <p>Object. 1. Say ſome, <hi>The King is dead, and by what Authori<g ref="char:EOLhyphen"/>ty dost thou theſe things, and who gave thee this Authority?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> We act as Juſtices by Commiſſion, and Authority from the Legiſlative power of the Kingdome, the Commons in England, vertually the ſame Authority gives us our Office that gave all the Kings of England their Office and Truſt, which appears by that Interrogatory to the people in the old forme of their Coronations, <hi>Will you have this man to reigne over you?</hi> Which Solemnity the Law intends ſhould be at a generall Convention of the whole Kingdome, and in<g ref="char:EOLhyphen"/>flicts a penalty upon every man of eſtate that ſhall be then ab<g ref="char:EOLhyphen"/>ſent; and the practiſe of the Kingdome was ſuitable to the Law, the greateſt number of Kings, ſince the Conqueſt, ha<g ref="char:EOLhyphen"/>ving
+<pb n="4" facs="tcp:126036:3"/>no other colour to the Crown, but the Parliament and peoples Authority. We ſit as Juſtices by the ſame Authority, which was to chuſe the Laws and Cuſtomes, by which the Kings of England were bound by Oath to govern the King<g ref="char:EOLhyphen"/>dome: The ſame Authority by which all the Courts of Eng<g ref="char:EOLhyphen"/>land ſtand, and their Officers uphold the juſtice of the Com<g ref="char:EOLhyphen"/>mon-wealth, even from that authority under God we derive our preſent power, which gives a legall exiſtence to all the juſt powers Civill or Military, which ever were or now are in the Nation. And although this and other ſervices had wont to be in the Kings Name, it will appear to have been but for matter of form, and that the life and power was in and from the people, becauſe the people brought that power into a Law, the Law truſted the King with it, to convey it to parti<g ref="char:EOLhyphen"/>cular perſons, the people limited the truſt they gave the King in the Law, he might not diſpoſe it as he pleaſed himſelf, he might not Commiſſion an Alien, or a Papiſt: and therefore the people are the originall of all true power, and that con<g ref="char:EOLhyphen"/>duit Pipe of Authority (the King) being cut off, the truſt re<g ref="char:EOLhyphen"/>turnes to the firſt givers (the people,) from whom our au<g ref="char:EOLhyphen"/>thority as out of the very fountain iſſueth.</p>
+            <p>Object. 2. <hi>But the King is dead, not by a naturall, but a vio<g ref="char:EOLhyphen"/>lent ſtroke: How cometh that to paſſe?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> The King indeed is fallen by the ſtroke of Juſtice, which ſmote him openly for his Crimes, and the bloud he had ſhed in the face of Heaven; and I confeſſe when perſons of higheſt truſt among the people are brought to the Axe, it preſents us a dolefull caſe: Nevertheleſſe when fury doth not hurry them, but Juſtice laies hold upon them in the way of God, we have all cauſe to ſing, <hi>Gloria Dee in excelſis, in terris pax, inter homines benevolentia.</hi>
+            </p>
+            <p>Object. 3. <hi>But is not the Perſon of the King priviledged? doth not the Scripture ſay,</hi> He that toucheth him ſhall not be innocent?</p>
+            <p>
+               <hi>Reſp.</hi> The King muſt not be touched by the ſecret, or open violence of men upon any pretence, when he performs his office: Nay, he may not be touched for his offences upon mens irregular paſſions; but the King and every ſon of <hi>Adam,</hi>
+               <pb n="5" facs="tcp:126036:3"/>may and muſt be touched by the Ordinance of the Almighty ſet up againſt evill doers, even by the impartiall hand of Ju<g ref="char:EOLhyphen"/>ſtice, which is <hi>Innocency</hi> it ſelf. I confeſſe that King that ſits up<g ref="char:EOLhyphen"/>on his <hi>Throne, and ſcattereth the wicked with his eyes. That King that faithfully judgeth the poor, his Throne ſhall be eſtabliſhed for ever,</hi> he is the priviledged King that muſt not be touched. But ſuch a one was not the perſon fallen, but a mighty hunter of his poor people before the Lord; and if ſo, The holy God who reſpecteth not perſons hath given us in his Book precept and inſtance beyond all exception, that in ſuch caſe no mortall humane fleſh hath a priviledge from the ſtroke of Juſtice to the loſſe of life. As therefore the Objector hath appealed un<g ref="char:EOLhyphen"/>to Scripture, unto Scripture ſhalt thou go, <hi>Gen.</hi> 9.4.5.6. ver<g ref="char:EOLhyphen"/>ſes. God forbids all eating of Bloud becauſe it was the life of the Creature, in the fourth verſe: The reaſon of this prohibi<g ref="char:EOLhyphen"/>tion appears in the entrance to the fifth verſe, <hi>your bloud of your lives will I require,</hi> he will ſurely make inquiſition for the bloud of man; and then the Lord expreſſeth himſelf in the manner in a univerſall propoſition, which (ſaith <hi>Deodat.</hi>) laies impartiall hold on great as well as on petty offenders. <hi>At the hand of every mans Brother will I require the life of a man,</hi> which I underſtand in the active, as well as in the paſſive ſence, <hi>viz.</hi> that every brother do bring, as well as be brought to Juſtice for bloodſhed: And that God requires this at the perill of the neglecter (though a brother) as well as declare it to the terrour of the ſpiller of bloud (though a brother) and then at the ſixth verſe we have a plain irrepealable Law in the cauſe; <hi>He that ſheddeth mans blood, by man ſhall his blood be ſhed;</hi> with ſuch a reaſon annexed, as admits no exception a<g ref="char:EOLhyphen"/>mongſt the ſons of <hi>Adam, for in the Image of God made he Man,</hi> ſo that two univerſall Propoſitions ariſe out of theſe words. Firſt, <hi>Every murtherer is to be put to death.</hi> Secondly, <hi>Every man that will be guiltleſſe of bloudſhed, muſt indeavour to bring the Murtherer to Juſtice.</hi> And in further evidence to the truth hereof, let us conſider, what a likeneſſe here unto have all Gods expreſſions upon this occaſion. More preciſely in the 35. of Numbers, a Chapter treating only of this ſubject of bloodſhed, there we ſee the firſt univerſall Propoſition fre<g ref="char:EOLhyphen"/>quently
+<pb n="6" facs="tcp:126036:4"/>repeated in terminis, <hi>The murtherer ſhall ſurely be put to death,</hi> verſes 17.18.19.30.31. And no leſſe plainly have we the ſecond univerſall Propoſition in verſes 31.33.34. ex<g ref="char:EOLhyphen"/>preſſely declaring that bloudſhed defiles the Land, <hi>that the Land cannot be cleanſed, but by the blood of him that ſeed it.</hi> And that therefore they ſhould execute the Murtherer, that they might not be defiled with blood. <hi>There ſhalt take no ſatis<g ref="char:EOLhyphen"/>faction for the life of a murderer. The murderer ſhall ſurely be put to death.</hi> So we ſee it is plain, <hi>every man that will be guilt<g ref="char:EOLhyphen"/>leſſe of bloudſhed must endeavour to bring the murtherer to ju<g ref="char:EOLhyphen"/>ſtice.</hi> And therefore if the King be deſcended of the ſons of <hi>Adam,</hi> and if he have unjuſtly ſpilt the bloud of his people, the Scriptures are plain that he hath no priviledge, and that unleſſe the people indeavour that the hand of Authority touch him for it, the blood he hath ſpilt hath defiled them all, and they cannot be innocent. His Throne can give him no pri<g ref="char:EOLhyphen"/>viledge in this caſe of blood, God would not endure that his Throne ſhould exempt from Juſtice: the Sanctuary was his Throne amongſt men, yet God commands the murderer to be taken thence &amp; executed, <hi>Exod.</hi> 21.14. And wiſe <hi>Solomon</hi> un<g ref="char:EOLhyphen"/>derſtood it ſo, when he commanded <hi>Benhaiah</hi> to execute bloud guilty <hi>Joab</hi> having the horns of the Altar in his hand: &amp; if God would have the bloud guilty perſon pluckt from his own moſt ſacred Throne, yea executed in it, (which in other cauſes was an inſufferable prophanation) it cannot diſpleaſe him to pluck a Murtherer to Juſtice from the Thrones of men: and as the Scriptures clear the <hi>Theſis,</hi> ſo their inſtances make good the practiſe, that Kings are reſponſible to God and to men too, for their bloodſhed and miſgovernment: that they have no ſuch priviledge of Impunity for their Prſons as their Para<g ref="char:EOLhyphen"/>ſites have flattered them to believe, which King <hi>Agag</hi> found to be true, notwithſtanding his Plea that he acted, <hi>Loco &amp; tempore belli,</hi> and had Quarter given him, 1 <hi>Sam.</hi> 15.33. the Kings of Iſrael and Judah give us many preſidents of the ſame: the cauſe of <hi>Jehu</hi> upon <hi>Jehoram</hi> being very oppoſite, God giving teſtimony by a bleſſing upon his poſterity, 2 <hi>Kin.</hi> 8.30. and although the perſons that acted in chiefe in ſuch cauſes, for their indirect intentions and other prevarications,
+<pb n="7" facs="tcp:126036:4"/>often drew upon themſelves the wrath of God, &amp; altered the nature of the work in their own perſons; yet did not that at all cleave to it in the <hi>Abſtractum</hi> of executing Juſtice upon the capitall Offender, which all along we find approved as well as commanded of God. And if I may be permitted to travell amongſt the Nations of the world, what people hath not a<g ref="char:EOLhyphen"/>vowed their right herein? Let the Queen-Regent of the Weſtern world, <hi>Imperiall Rome</hi> (as ſhe gave law to all the reſt) ſpeak for all. How often did it change the forme of the Supreme Authority for the corruptions of thoſe that were intruſted with it. <hi>Remarkable</hi> is the <hi>Sentence</hi> of the <hi>Se<g ref="char:EOLhyphen"/>nate</hi> upon the Emperor <hi>Nero,</hi> who for his miſgovernment and baſeneſſe was adjudged to be whipt to death, ſaith my Author, <hi>In conſenſu Senatus praecipuorum Ducum, &amp; exercitu<g ref="char:EOLhyphen"/>um jùſte Decretum est ut Tyrannus telleretur.</hi> Although he e<g ref="char:EOLhyphen"/>ſcaped execution by being his owne Executioner a day too ſoon.</p>
+            <p>Object. 4. <hi>But was not</hi> David <hi>guilty of the death of</hi> Uriah, <hi>and yet he did not ſuffer for it? Nay, did not</hi> David <hi>execute the Amalekite that ſlew wicked King</hi> Saul, <hi>becauſe he ſtretched forth his hand againſt the Lords Annoynted, notwithſtanding the Amalekite pleaded, that</hi> Sauls <hi>eſcape was paſt hope, and that what he did was to put the King out of the anguiſh and pain he was in?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Firſt, for the caſe of <hi>David</hi> in the death of <hi>
+                  <g ref="char:V">Ʋ</g>riah,</hi> although this Anſwer were ſufficient to that Argument, to ſay, that it is abſurd, and illogicall, becauſe it concludes from a particular to a univerſall, and from a matter of fact to a matter of right <hi>Negativè:</hi> and another ſufficient Anſwer to this Argument may be, that the death of <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> being ſecret<g ref="char:EOLhyphen"/>ly contrived to be done upon an aſſault by the hand of the Enemy, where there were others in the party, and <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> might have a poſſibility to come off, that therefore no hu<g ref="char:EOLhyphen"/>mane Judicature (which is to proceed <hi>ſecundùm allegata &amp; probata</hi>) could find the matter of fact; yet I reſt not in theſe replies, but for ſatisfaction to this doubt I anſwer, That it was not <hi>Davids Regall Authority</hi> that did exempt him from Juſtice in this caſe, but it was the indulgence of the Almigh<g ref="char:EOLhyphen"/>ty
+<pb n="8" facs="tcp:126036:5"/>upon his true repentance: and the Text is plaine for it, 2 <hi>Sam.</hi> 12. at the fifth Ver. <hi>David</hi> unawres giveth a ſentence of death upon himſelf to <hi>Nathan,</hi> and at verſe 13. <hi>there is Da<g ref="char:EOLhyphen"/>vids repentance, I have ſinned against the Lord,</hi> then follows the Lords indulgence, <hi>the Lord hath put away thy ſin,</hi> and that is not all, <hi>thou ſhalt not die;</hi> there is <hi>Davids</hi> full diſcharge from the hand of Juſtice for the caſe of the Amalckite: what a ſenceleſſe argument more is this, to conclude from <hi>Davids</hi> execution of Juſtice upon a wretch, for a bloody murther up<g ref="char:EOLhyphen"/>on a King when he was in the moſt undoubted diſcharge of his duty, unto the exempting of a tyrant from Juſtice for his miſdeeds? who did ever juſtifie ſuch a wilfull murther upon any man though never ſo wicked!</p>
+            <p>Object. 5. Quis eſt tam magnus pro tanto munere hoc? <hi>Is not the King Supreme who can try him, ſeeing,</hi> Supremo non datur Superius?</p>
+            <p>
+               <hi>Reſp.</hi> There is great odds between Supreme in power to give, and Supreme in power given, he that is only Supreme in power given, is not ſo high but that there are greater then he, and ſuch is the King, of whom it was true, that he was <hi>Ma<g ref="char:EOLhyphen"/>jor ſingulis,</hi> but <hi>Minor univerſis,</hi> and long ſince this Nation knew the Kings Superiour, <hi>Scilicet Curiam ſuam,</hi> ſaith old <hi>Fle<g ref="char:EOLhyphen"/>ta;</hi> the people in Parliament who often heretofore did and now again may try their Kings as well as other Officers.</p>
+            <p>Object. 6. <hi>But what ſay we to that clauſe in the third Article of the Covenant, which reſpects the preſervation of the Kings per<g ref="char:EOLhyphen"/>ſon and Authority. The Article runs thus.</hi> We ſhall with the ſame reality and conſtancy in our ſeverall vocations indea<g ref="char:EOLhyphen"/>vour with our lives and eſtates mutually to preſerve and de<g ref="char:EOLhyphen"/>fend the rights and priviledges of Parliaments, and the Li<g ref="char:EOLhyphen"/>berties of the Kingdoms, and to preſerve &amp; defend the Kings Majeſties perſon and Authority, IN THE PRESERVATI<g ref="char:EOLhyphen"/>ON AND DEFENCE of the true Religion and Liberties of the Kingdoms, that the world may bear witneſſe with our conſciences of our Loyalty, and that we have no thoughts or intentions to diminiſh his Majeſties juſt power and great<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>
+               <hi>Reſp.</hi> The plain purpoſe and ſcope of this clauſe in the Ar<g ref="char:EOLhyphen"/>ticle
+<pb n="9" facs="tcp:126036:5"/>concerning the King, was to teſtifie the tender affections we had to him, and muſt (to our comfort) remaine a Monu<g ref="char:EOLhyphen"/>ment thereof to all Generations; as alſo that we endeavoured (if it had been poſſible) to winne the King to us, before he had run himſelf and the Kingdom into more miſchief: and the bet<g ref="char:EOLhyphen"/>ter to prevall herein, we gave him, which may more, this So<g ref="char:EOLhyphen"/>lemne aſſurance in the <hi>Covenant,</hi> that we meant to give him the greateſt ſhare <hi>in the preſervation of Religion and the Liberties of the Kingdom,</hi> that we ſhould exalt his Throne, and make him greater (if it were poſſible) in the affections of his people at home, and more ſcared of his enemies abroad, then any of his Anceſtors: But the King in whoſe power alone it remained, by joyning with us to put us into a condition to act what we did intend, rejects the Tender, Declares and makes warre a<g ref="char:EOLhyphen"/>gainſt us. What colour is there then to preſſe it now upon us? the plaine and Grummaticall ſenſe of the Article being, that is covenanteth for ſome things abſolutely and ſingly, <hi>viz.</hi> to <hi>In<g ref="char:EOLhyphen"/>deavour, &amp;c. the preſervation of the Priviledges of Parliament, the Liberties of the Kingdom and true Religion;</hi> for other things it covenanteth under a reſtrained, limited and conditional ſenſe, <hi>viz. to preſerve the Kings perſon and Authority;</hi> the expreſs words are IN THE PRESERVATION <hi>of Religion and the Liberties of the Kingdomes,</hi> and no otherwiſe, nor farther <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo. And <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> both ſides alwayes interpreted this Article; That the King and his party underſtood it thus, beſides many other arguments drawn from their violent practiſes againſt it, appears very plainly in all their Pamphlets againſt the <hi>Cove<g ref="char:EOLhyphen"/>nant,</hi> many of which I have ſeene, the chiefeſt of that party concluding from this Article, that unleſſe the King <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the Parliament (to uſe their own words) turne <hi>Round<g ref="char:EOLhyphen"/>head,</hi> the <hi>Covenant</hi> provided not at all for him: Very much to this purpoſeſpeaketh a Treatiſe againſt the Covenant printed at <hi>Briſtol</hi> about five yeeres ſince, and another ſet forth by the Univerſity of <hi>Oxford,</hi> approved by generall conſent in a full Convocation, <hi>June</hi> 1. 1647. Nay ſome of that ſide, of no ſmall judgement, have maintained (and well enough they might) as to the Kings intereſt which they endeavoured to ſet up) that it had beene farre better the King had not been mentioned
+<pb n="10" facs="tcp:126036:6"/>as all in the <hi>Covenant</hi> in that limited ſenſe. That the Parliament doth ſo underſtand the Article, appears, that immediatly after the <hi>Covenant</hi> had beene taken, they did more vigorouſly proſe<g ref="char:EOLhyphen"/>cute, and require others to proſecute the warre, even when the King was upon the place, without any reſpect to his perſon and authority, and after gave Commiſſion abſolutely without li<g ref="char:EOLhyphen"/>mitation or reſtraint in that caſe. And moreover, the Parli<g ref="char:EOLhyphen"/>ments uſing of the Kings name in their publike authorities, hath ſtill beene interpreted in oppoſition of his perſon, be<g ref="char:EOLhyphen"/>cauſe his perſon was in oppoſition to his duty, which was to protect the people and the Courts of Juſtice, not to make war againſt them; and ſo and no otherwiſe they have ſtill inter<g ref="char:EOLhyphen"/>preted themſelves to the people in the <hi>Oaths</hi> of <hi>Supremacy</hi> and <hi>Allegiance,</hi> and all other ingagements of like nature, as binding the people to the publike Liberties in oppoſition to the Kings perſon now in armes againſt them. And we have all along ſo underſtood them, and not otherwiſe; that if at any time the preſervation of the Kings authority and perſon ſtood in com<g ref="char:EOLhyphen"/>petition with Religion and the publike Liberties; we have beene inſtructed that the <hi>Covenant</hi> and <hi>Oathes</hi> aforeſaid bound us to preferre the latter: Unto all which, if we adde the warre, miſchiefe and bloodſhed of three Kingdomes by the King maintained to the laſt extremity, it will appeare, that neither the <hi>Covenant</hi> and <hi>Oathes</hi> aforeſaid, nor any heart tru<g ref="char:EOLhyphen"/>ly conſcious of the glory of God can afford a plea ſufficient to exempt the King from Juſtice; And ſure, it is the horrible unrighteouſneſſe of our natures to think that God likes well the execution of inferiour offendors, and the ſparing of the Capitall, in one and the ſame matter.</p>
+            <p>
+               <hi>Object.</hi> But there were no Lords conſenting to this Tryall of the King.</p>
+            <p>
+               <hi>Reſp.</hi> You cannot ſay ſo; tis true, the majority diſſented; but what of that? Hath the Negative of the Lords Houſe beene judged a ſufficient Barre to the proceedings of the Commons? The matter was otherwiſe about ſeven yeeres ſince, when Maſter <hi>Pim</hi> was ſent to the Houſe of Lords to tell them, that if they refuſed to joyne with the Commons in ſet<g ref="char:EOLhyphen"/>ling the <hi>Militia,</hi> the Commons would do it of their owne
+<pb n="11" facs="tcp:126036:6"/>authority, and the Lords ſhould have no ſhare therein; and the matter was otherwiſe when about five yeeres a worthy Gentleman of this County, now upon the Bench, being un<g ref="char:EOLhyphen"/>juſtly impriſoned by that Houſe, was diſcharged with damma<g ref="char:EOLhyphen"/>ges by the Commons to his immortall honor.</p>
+            <p>I am ſure if the King cannot juſtly claime a Negative againſt the People, becauſe he is ſworne to Governe by the Lawes which the People ſhall chooſe; the Lords who never had the Peoples choyce, but ſit by Patent from the King, cannot claim a Priviledge againſt the People, which the King that gave the Patent had not in himſelfe. I honour the perſons of the No<g ref="char:EOLhyphen"/>bles of <hi>England</hi> and their lawfull Priviledges, and I am per<g ref="char:EOLhyphen"/>ſwaded that the truly noble amongſt them will not keep up ſuch <hi>Priviledges</hi> as are not conſiſtent with the <hi>Fundamentall Pri<g ref="char:EOLhyphen"/>viledges</hi> of the Free borne Engliſh Nation the mother of us all; and for the reſt I am apt to ſay with the Philoſopher, <hi>Nulla mihi inter malos &amp; Tyrannos Nobilitas.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> But the Commons Houſe was not free; They had a <hi>Treaty</hi> with the King, How came that to be broken off? Did not the Army interpoſe, and take many Members, and Impri<g ref="char:EOLhyphen"/>ſon them coming to the Houſe?</p>
+            <p>
+               <hi>Reſp.</hi> Firſt, 'Tis ſomewhat worth your notice, That the Treaty expired before the Army acted, otherwiſe then by way of humble Meſſage; nevertheleſſe (if the Councell of the Al<g ref="char:EOLhyphen"/>mighty had been ſo) I could have wiſhed that there had never been a colour for this Argument of a force upon the Parlia<g ref="char:EOLhyphen"/>ment, which hath been over and over the Plea of every ſide; I could wiſh there had been no colour for it when the Scottiſh Army was kept ſo long in the Kingdome at their firſt entrance, and after ſatisfaction given them; nor when the tumults came firſt to <hi>Weſtminſter;</hi> or when the Seamen came firſt againſt <hi>White-Hall</hi> with Ordnance in Liters; nor upon the frequent inſurrection, and inſolent Petitions in and about <hi>London</hi> upon all <hi>emergencies;</hi> nor upon this laſt occaſion mentioned in the Objection: But I perceive <hi>God</hi> had a purpoſe to ſtaine all creature glory, by ſuffering men to run into folly ſo far, that ſometimes by force they muſt be pulled out of the fire they had kindled upon themſelves and others. The anſwer which the
+<pb n="12" facs="tcp:126036:7"/>Parliament party gave their adverſaties upon this <hi>Argument, was,</hi> that they cordially endeavoured the publike good, and the redreſſing of the ſoule abuſes in the former government, that the ſoones of <hi>Zerviah</hi> were too hard for them; that there was an intended, yea a viſible miſchief acting againſt the ho<g ref="char:EOLhyphen"/>neſt party by a Malignant party; that their owne actings which had any appearance of force, had an equitable juſtice in them, were defenſive, becauſe they were either for the pre<g ref="char:EOLhyphen"/>vention, or for the preſent encounter of ſuch eville as were ready to over-run all. And that deſignes of that miſchievous nature ſecurely prevented, they did reſolve to abandon all force, and to live onely upon rule of Law. And when indeed &amp; <hi>bona fide</hi> the caſe is ſuch, I do not think but force, which is as much the Ordinance of God, as freedome, hath then its right<g ref="char:EOLhyphen"/>full uſe and exerciſe, <hi>viz.</hi> to ſet at liberty that juſtice and truth which corrupt men hold captive, under a pretence of <hi>Priviledge,</hi> and that the equity of mans intentions and actings in ſuch extremities, will juſtifie before God and man, rather then the letter applyed to uphold a miſchief, &amp; this caſe muſt needs be frequent in <hi>Imperfect humans Conſtitutions,</hi> unleſſe rules ſeaſonably make remedy upon complaint; and this was apparently the caſe between the King and Parliament in ſun<g ref="char:EOLhyphen"/>dry particulars; and let the judicious ſay (having read the Ar<g ref="char:EOLhyphen"/>mies Remonſtrance) if this became not now againe truely as much the caſe of the Kingdome as then: And yet be<g ref="char:EOLhyphen"/>ſides all this, the Army will plead that when they did inter<g ref="char:EOLhyphen"/>poſe an act, after multiplied addreſſes made to the Parliament and themſelves, they did it for the removall, rather then the laying on of a force upon the Parliament, the Houſes enjoying an unqueſtionable freedome when the King rejected the foure Bils preſented to him in order to a Perſonal Treaty, and conſe<g ref="char:EOLhyphen"/>quently when they paſſed the Votes of <hi>Non-Addreſſes</hi> which fol<g ref="char:EOLhyphen"/>lowed therupon, which Votes ſtood good many Months; but a party in <hi>Scotland</hi> liked not this courſe, their great deſign being to keep and maintain themſelves an intereſt in this Common<g ref="char:EOLhyphen"/>wealth; and under the abuſed names of Treaty, Covenant, and Church-government, they cloſe with the Cavaliers; in falls a round party that had appeared for the Parliament by Land,
+<pb n="13" facs="tcp:126036:7"/>
+               <hi>Batten</hi> and <hi>Jorden</hi> by Sea, the Lord <hi>Willoughby</hi> of <hi>Parhath</hi> for<g ref="char:EOLhyphen"/>merly made Speaker of the houſe of Lords <hi>pro tempore,</hi> and the multitude of the City, &amp; revolted Shipping united all together, quickly found a meanes to kindle ſuch a flame in the bowels of the Kingdom, that nothing but the hand of God remained of power to quench it again; imperious petitions daily ſtorm the Parliament, ſpeaking concurrently with all the reſt the ſame language for a Ceſſation and perſonall Treaty.</p>
+            <p>Where was the freedome of the Parliament in the midſt of all theſe tumults? and now many faithfull Members being a<g ref="char:EOLhyphen"/>broad to quench this horrid flame, and others over whelmed with this new faction, the reſt got an opportunity to revoke the Votes of <hi>Non-Addreſſes</hi> ſo ſolemnly and deliberately paſſed, and to carry the Houſe for a Perſonall Treaty upon the worſt and moſt diſhonourable termes that had ever ever yes fear the Sunne on the part of the Parliament. All the Parliaments friends abroad, <hi>Presbyterians</hi> and others, ſtand amazed at the matter; the Kings party in City and Country triumph and browbeat their Conquerors; Pamphlets printed to vent much ſcorne and menacies upon the Parliaments friends; at length we all petition againſt this defuſive Treaty, the petition's re<g ref="char:EOLhyphen"/>jected; then all honeſt parties of the Kingdome cloſe, and as the laſt viſible remedy, ſollicite the Army to interpoſe, by this time returning from one of the wonders of this generation (beſides other pettier matters) the diſſipation of the three po<g ref="char:EOLhyphen"/>tent Armies, in the North, Weſt and South. The Army in be<g ref="char:EOLhyphen"/>halfe of the Kingdome at length humbly remonſtrates to the Parliament againſt the Treaty, or at leaſt that they would be more cautious what they did in it; for want of audience the Army is faine to declare againſt it; but they were now ſunk in<g ref="char:EOLhyphen"/>to ſo deep a <hi>Lethe,</hi> they were ſenſible of nothing, although God himſelf in moſt mens judgements, declared againſt the Treaty: in that after ſo many additions of time to lengthen it out, and after the utmoſt induſtry uſed to ſhuffle up in end, the time ex<g ref="char:EOLhyphen"/>pires, and all parties are forced to break off without any thing done, and to ſumme up the fruit of all this expenſive tedious Treaty in a Vote, that the <hi>Kings Conceſſions were not ſatisfactory;</hi> truth is he had granted nothing at all to the ſatifaction of the
+<pb n="14" facs="tcp:126036:8"/>Kingdome; and yet the ſtrong factions in and about the Parli<g ref="char:EOLhyphen"/>ament within foure dayes, and nothing more done or obtain<g ref="char:EOLhyphen"/>ed, carry the Houſe againe into a Vote, that the <hi>Conceſſions were a ground to proceed upon to ſettle the peace of the Kingdom,</hi> all which toſſng, turning, and over-turning in ſo bad a buſi<g ref="char:EOLhyphen"/>neſſe, was no other in my eye then the effect of a force upon the freedome of the Houſes firſt mentioned. And then, and not till then, to prevent a worſe miſchiefe, the Army appeares <hi>Vim vi repellere,</hi> to ſettle the Parliament in the freedome which it had before the <hi>Scottiſh</hi> Confederacie, and the repeale of the Votes of the <hi>Non-Addreſſes;</hi> and for their ſeizing the perſons of the Members, I confeſſe it is my opinion that they that had a hand in, or gave countenance to ſo dangerous a Treaſon, are not fit to be truſted with the Liberties of <hi>England.</hi> Deſperate is the ſafety of that Common wealth, where the perſons truſted with the ſupreme Authority challenge a priviledge of impunity when they tranſgreſſe.</p>
+            <p>
+               <hi>Object.</hi> 8. They that are apt to object that this doctrine ex<g ref="char:EOLhyphen"/>poſeth perſons in Authority to the daily violencies of the in<g ref="char:EOLhyphen"/>ſtable multitude:</p>
+            <p>
+               <hi>Reſp.</hi> Did they Chriſtianly conſider from whence the ſafe<g ref="char:EOLhyphen"/>ty of Rulers ariſeth, they would bluſh to make that objection; God is the alone giver of ſafety, and well-governing is the good Rulers beſt preſervation; If the Heathen Poet could ſay, <hi>Integer vita ſceleriſque purus non eget Mauri jaoulis vec arcu;</hi> I would not have Profeſſors of Chriſtian Religion more faithleſſe then the Gentiles; <hi>the uprightneſſe of the upright ſhall deliver him;</hi> and let men make their Tower never ſo ſtrong, <hi>un<g ref="char:EOLhyphen"/>righteouſneſſe</hi> will make them deſolate. To conclude, although the King be dead, although he be fallen by the hand of Juſtice, notwithſtanding his pretence of perſonall priviledge from Scripture, or from his Supreme Authority, notwithſtanding the clauſe in the <hi>Covenant,</hi> and the non-concurrence of the Houſe of Lords, or pretended force of the Army upon ſome Members, or any other objection, our Authority as Juſti<g ref="char:EOLhyphen"/>ces of the Peace, appears to me unqueſtionable and ſure. And what I have ſpoken upon this ſubject, I deſire may not be un<g ref="char:EOLhyphen"/>derſtood to aggravate, or keep up differences amongſt men; I
+<pb n="15" facs="tcp:126036:8"/>have laid aſide many pertinent things becauſe I would not of<g ref="char:EOLhyphen"/>fend; &amp; I profeſſe ſeriouſly in a conſcientious deſire of the peace and good agreement of all men, that deſire peace, I have been thus large to cleare the foundation of the freedome and au<g ref="char:EOLhyphen"/>thority of the Commons of <hi>England,</hi> that we might all build our peace together upon this ſure Corner-ſtone under God. You ſee I have not favoured any particular intereſt above o<g ref="char:EOLhyphen"/>ther in al my Diſcourſe, I have ſpoken under no other name but as an Engliſh man, and a promoter of common juſtice without reſpect of perſons; tis your Priviledge to enjoy it, as old as <hi>England;</hi> your unſetled minds hinder the enjoyment of it, and lengthens out your troubles and burthens, to the griefe of thoſe that labour for you, in this, and other Seates of authority; this is the worſt I intend, publike peace upon a foundation of equall Juſtice; and I ſpecially commend it for the preſent ſervice to the Grand Inqueſt; becauſe in order thereunto by you the firſt part is to be acted: I ſhall not fall into a particular enumerati<g ref="char:EOLhyphen"/>on of offences, and Statutes made againſt them, as the manner is; it is common to you at every Aſſizes and Seſſion of the Peace; and I am confident you need not a repetition (at preſent) ther<g ref="char:EOLhyphen"/>of. Thus much only be pleaſed in the generall to hear in that kind; Let not blood, oppreſſion and fraud eſcape your ſeve<g ref="char:EOLhyphen"/>reſt inquiry; reſpect no mans perſon that comes in judgement before you, preſent all wilfull and prophane Blaſphemers of the Name and Majeſty of God; let vagrant Rogues, Idelers, and the common Nurſeries of all baſeneſſe and miſcheif <hi>[Alehouſes]</hi> feele the juſtice of the Law. And while you are together, be<g ref="char:EOLhyphen"/>think your ſelves of ſomething of your own, for the better ſe<g ref="char:EOLhyphen"/>curing of the County againſt invaſion and inſurrection: of ſom<g ref="char:EOLhyphen"/>thing for the advance of your own Manufactures and Commo<g ref="char:EOLhyphen"/>dities; for the bettering of the condition of the poor (that, that ſhame of men Beggars and begging may ceaſe amongſt us) and whatever elſe may give an advancement to righteouſneſſe and peace, and we on the Bench ſhall joyne with you, and the God of Righteouſneſſe and peace direct us all. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <pb n="16" facs="tcp:126036:9"/>
+            <head>
+               <hi>To the Religious and Honorable Sir</hi> Hardreſt Waller <hi>Knight, Commander in Chief of all the Weſtern Forces and Gariſons.</hi>
+            </head>
+            <opener>
+               <salute>Honorable and Honoured Sir,</salute>
+            </opener>
+            <p>BEſides the task which your truſt hath put upon me amongſt the Forces in field, a Gariſon within this County, and beſider the buſineſſe of my own particular command, I have alſo all along <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a ſhare in the Civill adminiſtrations; the laſt ſingly conſidered (I confeſſe) had been enough to be laid upon ſuch a one as I am, who pleads my excuſe with you, if there appeare not that exactneſſe <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> buſineſſe which is deſirable; I am full of zeal to have all things a<g ref="char:EOLhyphen"/>mongſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> under a <hi>Contentfull</hi> as well as a ſecure management; and therefore I was inclinable (being moved unto <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) to give the Charge <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the laſt Seſſions of the peace, where, as <hi>I</hi> had an opportunity, ſo <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it my duty to ſatisfie the Country concerning the late and preſent pro<g ref="char:EOLhyphen"/>ceedings of the Parliament, which have been miſerably abuſed by <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpecious objections raiſed to trouble and interrupt the ſettlement of the Common-wealth, the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> materiall of them, have been long ſince an<g ref="char:EOLhyphen"/>ſwered, and therefore what I did in that Province, is little other than a <hi>Repetition</hi> of old Parliament language, and that phraſe of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>I</hi> have induſtriouſly kept my ſelf unto in all my <hi>Replies</hi> to theſe <hi>Ob<g ref="char:EOLhyphen"/>jections:</hi> And herewith <hi>I</hi> preſent the whole to your view; the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>I</hi> confeſſe hath ſome ſmall difference from what was ſpoken, the Li<g ref="char:EOLhyphen"/>berty. <hi>I</hi> uſed in expreſſion, carrying me into were variety then would beſeeme the paper; and in one or two paſſages, the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gathering up what eſcaped the preſent expreſſion. <hi>I</hi> aſſure you, elſe, it is one and the ſomething in word and writing. I ſee not any <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>upon it as worthy the ſending to you. That you may be perſwa<g ref="char:EOLhyphen"/>ded the ſooner to accept of my good will, and over-look my faults in your own buſineſſe leſt in my truſt, when this Paper ſhall minde you of ther imployments which muſt be ſometimes attended, is the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> de<g ref="char:EOLhyphen"/>ſign driven as by, Sir,</p>
+            <closer>
+               <signed>Your affectionate Servant, ROB. BENNET.</signed> 
+               <dateline>
+                  <hi>Cornwall</hi> 
+                  <date>April <hi>23, 1649.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
